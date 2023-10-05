@@ -14,6 +14,13 @@ QR code Generator
 This App use goqr.me API to create QR code for imported links.
 
 ### Screenshot
+![qr code generator-desktop](https://github.com/Mahdii-Kariimiian/QR-code-generator/assets/134393975/54a29cb2-2da4-45c1-82a0-4fe31809bef3)
+
+![qr code generator](https://github.com/Mahdii-Kariimiian/QR-code-generator/assets/134393975/0bdbb5c5-7357-4c32-b427-1d10c3d1d688)
+
+![qr code generated](https://github.com/Mahdii-Kariimiian/QR-code-generator/assets/134393975/9bac01f8-876b-4658-9cf4-7ffdfd160c77)
+
+![qr code empty input](https://github.com/Mahdii-Kariimiian/QR-code-generator/assets/134393975/858464e9-d7dd-4bc8-89f3-d1a2e0fa9551)
 
 ### Links
 -Netlify: 
