@@ -17,7 +17,7 @@ This App use goqr.me API to create QR code for imported links.
 
 
 ### Links
--Netlify: 
+-Vercel: https://qr-code-generator-omega-seven.vercel.app/
 
 ![QRcode generator](https://github.com/Mahdii-Kariimiian/QR-code-generator/assets/134393975/284229c1-30ea-43da-a6af-5e1eb3288e72)
 
